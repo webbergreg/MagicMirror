@@ -1,0 +1,14 @@
+{
+  "name": "petr_john_case_study",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Kailey Mander",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-less": "~1.3.6",
+    "gulp-plumber": "~0.6.6",
+    "gulp-rename": "~1.2.0",
+    "path": "~0.4.9"
+  }
+}
